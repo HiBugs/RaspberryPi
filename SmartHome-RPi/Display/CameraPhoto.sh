@@ -1,0 +1,1 @@
+raspistill -o CurrentPhoto.jpg -t 500

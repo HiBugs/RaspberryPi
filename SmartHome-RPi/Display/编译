@@ -1,0 +1,1 @@
+gcc dht11.c oled.c main.c -o main -lwiringPi
