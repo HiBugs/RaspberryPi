@@ -1,5 +1,4 @@
 # RaspberryPi
-树莓派－智能家居<br>
-自用备份
+树莓派－智能家居项目<br>
 
-![image](https://github.com/HiBugs/Pictures/blob/master/SmartHome.png)
+![image](SmartHome.png)
